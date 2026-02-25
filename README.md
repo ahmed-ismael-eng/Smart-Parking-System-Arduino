@@ -114,7 +114,7 @@ Parking system without buzzer (silent mode).
 
 \## Author
 
-Ahmed Ismael – Engineering Student
+Ahmed I.  
 
 
 
